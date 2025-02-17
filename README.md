@@ -1,4 +1,5 @@
-Sentiment Analysis Using Machine Learning
+##Sentiment Analysis Using Machine Learning
+
 This project implements sentiment analysis using machine learning techniques to classify text as positive, negative, or neutral. It explores various NLP (Natural Language Processing) techniques and ML models to analyze sentiments from text data.
 
 Features:
